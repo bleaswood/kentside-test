@@ -20,9 +20,9 @@
 
 #include <iostream>
 
-#include "test/test.h"
-#include "test/testFailure.h"
-#include "test/testRegistrar.h"
+#include "test/test.hpp"
+#include "test/testFailure.hpp"
+#include "test/testRegistrar.hpp"
 
 class test_failure : public test::test {
 public:

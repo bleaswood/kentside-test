@@ -20,8 +20,8 @@
 
 #include <iostream>
 
-#include "test/test.h"
-#include "test/testRegistrar.h"
+#include "test/test.hpp"
+#include "test/testRegistrar.hpp"
 
 class test_error : public test::test {
 public:

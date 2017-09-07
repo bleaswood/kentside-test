@@ -23,7 +23,7 @@
 
 #include <vector>
 
-#include "test/test.h"
+#include "test/test.hpp"
 
 namespace test {
 

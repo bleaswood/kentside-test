@@ -18,8 +18,8 @@
  * <http://www.gnu.org/licenses/>.
  */
 
-#include "test/testRegistrar.h"
-#include "test/testRegistry.h"
+#include "test/testRegistrar.hpp"
+#include "test/testRegistry.hpp"
 
 test::test_registry* test::test_registry::_instance;
 

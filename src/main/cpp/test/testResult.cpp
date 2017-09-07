@@ -20,7 +20,7 @@
 
 #include <iostream>
 
-#include "test/testResult.h"
+#include "test/testResult.hpp"
 
 test::test_result::test_result() : _success(0), _failure(0), _error(0) {
 }

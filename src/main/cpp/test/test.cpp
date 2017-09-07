@@ -20,9 +20,9 @@
 
 #include <exception>
 
-#include "test/test.h"
-#include "test/testFailure.h"
-#include "test/testResult.h"
+#include "test/test.hpp"
+#include "test/testFailure.hpp"
+#include "test/testResult.hpp"
 
 void test::test::run_test(test_result& results) {
     try {

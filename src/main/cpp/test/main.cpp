@@ -21,8 +21,8 @@
 #include <iostream>
 #include <vector>
 
-#include "test/testRegistry.h"
-#include "test/testResult.h"
+#include "test/testRegistry.hpp"
+#include "test/testResult.hpp"
 
 int main() {
     test::test_result result;

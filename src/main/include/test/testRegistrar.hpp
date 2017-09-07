@@ -21,7 +21,7 @@
 #ifndef _TEST_TESTREGISTRAR_
 #define _TEST_TESTREGISTRAR_
 
-#include "test/test.h"
+#include "test/test.hpp"
 
 namespace test {
 
